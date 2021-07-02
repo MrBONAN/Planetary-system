@@ -1,0 +1,7 @@
+Debug
+Release
+x64
+packages.config
+SFML_learn.vcxproj
+SFML_learn.vcxproj.filters
+SFML_learn.vcxproj.user
